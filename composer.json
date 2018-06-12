@@ -1,0 +1,15 @@
+{
+    "name": "spipremix/facteur",
+    "homepage": "https://contrib.spip.net/Facteur",
+    "description": "Il distribue votre courrier",
+    "type": "spip-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Collectif SPIP"
+        }
+    ],
+    "provide": {
+        "phpmailer/phpmailer": "5.2.6"
+    }
+}
